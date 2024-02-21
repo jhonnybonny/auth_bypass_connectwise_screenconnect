@@ -4,6 +4,9 @@ Exploit for bypassing authentication in ConnectWise ScreenConnect.
 
 ![Screenshot 2024-02-21 at 14 36 12](https://github.com/jhonnybonny/auth_bypass_connectwise_screenconnect/assets/87495218/e4ddc4da-8e41-4d26-ad51-1df73d9ab726)
 
+> [!CAUTION]
+> Disclaimer: IMPORTANT: This script is provided for educational, ethical testing, and lawful use ONLY. Do not use it on any system or network without explicit permission. Unauthorized access to computer systems and networks is illegal, and users caught performing unauthorized activities are subject to legal actions. The author is NOT responsible for any damage caused by the misuse of this script..
+
 ## Usage
 ```bash
 python3 bypass.py --url http://IP --username USER --password PASS

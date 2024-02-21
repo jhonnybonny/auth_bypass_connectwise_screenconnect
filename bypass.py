@@ -6,7 +6,6 @@ from colorama import Fore, Style
 banner = f"""
 {Fore.RED}
 Auth Bypass in ConnectWise ScreenConnect
-Слава Україні 🇺🇦
 {Style.RESET_ALL}
 {Fore.GREEN}
 - FOFA: "ScreenConnect" && country="RU" 
